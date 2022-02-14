@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: What Is the Course All About?
+parent_type: CourseSection
 resourcetype: Image
 title: pepper.jpg
+type: OCWImage
 uid: 898755ce-3104-e859-562e-fa39d553cff9
 ---

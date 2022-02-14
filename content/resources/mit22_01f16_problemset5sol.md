@@ -4,7 +4,12 @@ description: 'This resource contains information regarding introduction to nucle
   engineering and ionizing radiation: Problem set 5 solutions.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/9461c7f6194bcbf165fd622c44ebb4fe_MIT22_01F16_ProblemSet5Sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 5 Solutions
+type: OCWFile
 uid: 9461c7f6-194b-cbf1-65fd-622c44ebb4fe
 ---

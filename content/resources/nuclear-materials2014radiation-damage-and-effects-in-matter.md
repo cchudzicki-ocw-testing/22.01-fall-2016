@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Lecture 27: Nuclear Materials\u2014Radiation Damage and Effects in Matter"
 uid: e93ef972-637a-8e2c-364e-ba9caef9abd6

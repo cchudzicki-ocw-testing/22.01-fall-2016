@@ -4,7 +4,12 @@ description: 'This resource contains information regarding introduction to nucle
   engineering and ionizing radiation: Problem set 9.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/cd48eb4754ae477c60f2eb3f84a3ccd1_MIT22_01F16_ProblemSet9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set 9: Practice Problems for Final Quiz #3'
+type: OCWFile
 uid: cd48eb47-54ae-477c-60f2-eb3f84a3ccd1
 ---

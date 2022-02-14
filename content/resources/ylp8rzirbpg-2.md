@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/cad095cece895ae7aa2f7f3302586cc0_YLp8RziRbpg.vtt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: cad095ce-ce89-5ae7-aa2f-7f3302586cc0
 ---

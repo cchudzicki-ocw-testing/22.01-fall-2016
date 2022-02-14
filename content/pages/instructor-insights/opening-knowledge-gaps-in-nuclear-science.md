@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a6387916-f3e7-531e-9ef2-4ec823ca76b5
 title: Opening Knowledge Gaps in Nuclear Science
+type: CourseSection
 uid: 8478ccd5-67d4-4696-ed4a-ad645b0f8615
 ---
 
