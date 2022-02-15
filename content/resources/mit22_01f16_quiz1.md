@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 'Quiz 1: Energetics, Radioactive Decay, Half Life'
-type: OCWFile
 uid: 2e1ebfc4-5290-eb3c-457c-dde0c35d2efd
 ---

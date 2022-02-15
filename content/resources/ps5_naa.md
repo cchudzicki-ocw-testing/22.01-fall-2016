@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: List of Nuclear Activation Analysis
-type: OCWFile
 uid: 0fc91a98-7b16-19ce-7183-99a39f4db4f0
 ---

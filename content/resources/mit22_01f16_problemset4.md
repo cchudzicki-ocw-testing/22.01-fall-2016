@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set 4: Successive Decays and Statistics'
-type: OCWFile
 uid: 8744a97a-a952-9f1e-7f2b-ab7b8e0c3cc9
 ---

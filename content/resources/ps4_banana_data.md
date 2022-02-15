@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: ps4_banana_data.zip
-type: OCWFile
 uid: 0263c0cd-d83c-1197-b4cb-40f3b94b1331
 ---

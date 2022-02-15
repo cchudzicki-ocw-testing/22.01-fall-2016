@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 'Quiz 3: Effects of Radiation'
-type: OCWFile
 uid: 0ad4fdb7-cab8-9d31-9dec-407d4f01e204
 ---

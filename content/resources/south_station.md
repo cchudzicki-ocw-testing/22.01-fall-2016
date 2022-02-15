@@ -12,6 +12,5 @@ parent_title: Hands-On Learning
 parent_type: CourseSection
 resourcetype: Image
 title: South_Station.jpg
-type: OCWImage
 uid: 942932a3-5164-e735-835d-d1c4351e329d
 ---

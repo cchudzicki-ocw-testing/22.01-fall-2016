@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Problem set 1: Retracing Chadwick''s Discovery of the Neutron'
-type: OCWFile
 uid: 581a75ba-b495-e526-d625-fb5634f68191
 ---

@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set 2: Nuclear Structure and Stability'
-type: OCWFile
 uid: e519f0db-e4f6-fc18-1f0b-578223eacac4
 ---

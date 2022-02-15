@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set 9: Practice Problems for Final Quiz #3'
-type: OCWFile
 uid: cd48eb47-54ae-477c-60f2-eb3f84a3ccd1
 ---

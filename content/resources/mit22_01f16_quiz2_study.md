@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Quiz 2 Study Sheet
-type: OCWFile
 uid: 0be2b232-07aa-3d57-5804-6a5572818255
 ---

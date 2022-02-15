@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set 3: Radioactive Decay and Half Life'
-type: OCWFile
 uid: 88a1d480-8187-a347-81ac-2ca1c77d39ce
 ---

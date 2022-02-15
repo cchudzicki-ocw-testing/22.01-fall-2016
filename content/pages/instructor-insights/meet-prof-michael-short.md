@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: a6387916-f3e7-531e-9ef2-4ec823ca76b5
 title: Meet Prof. Michael Short
-type: CourseSection
 uid: bc876b75-7ba0-32d7-a321-af54c0967aab
 ---
 

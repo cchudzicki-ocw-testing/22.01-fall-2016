@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set 7: Neutrons, Transport, and Criticality'
-type: OCWFile
 uid: 7f352eab-7a4c-1fa8-1428-bf76db8d3073
 ---

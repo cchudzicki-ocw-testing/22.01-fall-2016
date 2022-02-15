@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set 6: Electron and Ion Interactions with Matter'
-type: OCWFile
 uid: 2be59655-96fe-68cf-9bd2-5ef982ccdb86
 ---

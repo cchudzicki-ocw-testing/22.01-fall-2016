@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set 8: Biological and Chemical Effects of Radiation'
-type: OCWFile
 uid: 7caefb5d-f8f1-16b8-6497-95157b98aad3
 ---

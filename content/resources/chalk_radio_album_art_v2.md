@@ -12,6 +12,5 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Chalk Radio logo
-type: OCWImage
 uid: fa044564-774e-40a4-1003-dde717e2f036
 ---
