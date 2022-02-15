@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: The logo of the Chalk Radio podcast
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
