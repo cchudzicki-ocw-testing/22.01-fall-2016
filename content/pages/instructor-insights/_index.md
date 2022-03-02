@@ -14,11 +14,11 @@ Below, Professor Michael Short describes various aspects of how he teaches _22.0
 
 {{< quote "As an instructor, I like to start by opening knowledge gaps rather than spouting theory at someone." "— Michael Short" >}}
 
-*   {{< resource_link bc876b75-7ba0-32d7-a321-af54c0967aab "Meet Prof. Michael Short" >}}
-*   {{< resource_link 4ace3d6d-d3b4-c4a5-2cfe-09c6bce484cb "What Is the Course All About?" >}}
-*   {{< resource_link 8478ccd5-67d4-4696-ed4a-ad645b0f8615 "Opening Knowledge Gaps in Nuclear Science" >}}
-*   {{< resource_link 5e6bf892-8033-ca38-aab2-2c8793074f33 "Hands-On Learning" >}}
-*   {{< resource_link 7861b7df-e269-8d47-a387-c70f954004df "Prioritizing Teaching, Empowering Students" >}}
+*   {{% resource_link bc876b75-7ba0-32d7-a321-af54c0967aab "Meet Prof. Michael Short" %}}
+*   {{% resource_link 4ace3d6d-d3b4-c4a5-2cfe-09c6bce484cb "What Is the Course All About?" %}}
+*   {{% resource_link 8478ccd5-67d4-4696-ed4a-ad645b0f8615 "Opening Knowledge Gaps in Nuclear Science" %}}
+*   {{% resource_link 5e6bf892-8033-ca38-aab2-2c8793074f33 "Hands-On Learning" %}}
+*   {{% resource_link 7861b7df-e269-8d47-a387-c70f954004df "Prioritizing Teaching, Empowering Students" %}}
 
 {{< simplecast 61722d76-41e4-4005-8f84-374492f8fdfb >}}
 
