@@ -7,7 +7,7 @@ ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: a6387916-f3e7-531e-9ef2-4ec823ca76b5
 ---
-## Instructor Insights
+## Instructor Interview
 
 Below, Professor Michael Short describes various aspects of how he teaches _22.01 Introduction to Ionizing Radiation_.
 
