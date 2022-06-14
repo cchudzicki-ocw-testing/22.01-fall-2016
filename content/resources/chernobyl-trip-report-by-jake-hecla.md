@@ -30,3 +30,4 @@ video_metadata:
 **Instructor:** Jake Hecla
 
 **Note:** To report potential content errors, [please use this form](https://forms.gle/8B2zcUvfCtgJdTdE7).
+
