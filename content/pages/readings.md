@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents selected lecture notes and lists the reading assignments
+  for each lecture.
 draft: false
 learning_resource_types:
 - Readings
