@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Professor Short gives examples of ways he incorporates
+  experiential learning into his teaching approach.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

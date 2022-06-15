@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents the problem sets and solutions, along with a table
+  of useful reference links.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

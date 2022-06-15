@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Professor Short explains the overall topic of 22.01
+  Introduction to Nuclear Engineering and Ionizing Radiation and what he hopes students
+  will take away from the class.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
